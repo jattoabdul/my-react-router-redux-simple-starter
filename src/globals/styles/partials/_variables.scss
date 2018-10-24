@@ -1,0 +1,33 @@
+/* COLOURS */
+
+/* HEX */
+$offwhite: #fbfbfb;
+$indigo: #1c2b68;
+$greyscale: #eee;
+$greymain: #808080;
+$pink-fade: #ea526fb3;
+$head-bg-color: #776b6b91;
+$search-input-border-color: #ced4da;
+
+/* RGB */
+$pink: rgba(234, 82, 111, 1);
+$cream: rgba(247, 247, 255, 1);
+$cyan: rgba(35, 181, 211, 1);
+$black: rgba(0, 0, 0, 1);
+$white: rgba(255, 255, 255, 1);
+
+$andela-black-rgba: rgba(0, 0, 0, 0.3);
+$andela-boxshadow-rgba-black: rgba(199,218,255,0.5);
+
+/* SIZES/MEASUREMENTS */
+
+
+/* BREAKPOINTS */
+$screen-sm-min: 576px; /* Small tablets & large smartphones (landscape view) */
+$screen-sm-max: 767px; /* small phones & large smartphones max limit */
+$screen-md-min: 768px; /* Small tablets (portrait view) */
+$screen-lg-min: 992px; /* Tablets and small desktops */
+$screen-xl-min: 1200px; /* Large tablets and desktops */
+
+
+$transition: ease-in-out all .3s;
